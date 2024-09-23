@@ -9,5 +9,3 @@ Backend: Go
 Frontend: React
 
 Database: MongoDB Atlas
-
-Containers: Docker
